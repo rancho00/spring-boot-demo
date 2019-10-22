@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.rancho.demo.spring.boot.demo.starter.HelloServiceAutoConfiguration
