@@ -11,5 +11,5 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: yjn191405738
+    password: 123456
     url:  jdbc:mysql://127.0.0.1:3306/rancho?serverTimezone=UTC
