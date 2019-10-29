@@ -1,0 +1,15 @@
+debug:
+  true
+
+server:
+  port: 8080
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: yjn191405738
+    url:  jdbc:mysql://127.0.0.1:3306/rancho?serverTimezone=UTC
