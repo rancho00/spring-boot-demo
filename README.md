@@ -5,9 +5,14 @@
 |模块|说明|
 |:---|:---|
 |spring-boot-demo-starte|自定义starter|
+|spring-boot-demo-cache|springCache的基本用法|
+|spring-boot-demo-cache-redis|springCache整合redis基本用法|
 
 # Spring Boot学习教程
-### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s?__biz=Mzg4MTIxNDQ0OQ==&tempkey=MTA1MF9sMlM3Y2xpV1o5dzdkdmExOXlQYzkzRGVrYXgwQ0htSUpPemJQWktyQ2hEbV9Zb3NRR3E2R0lwWlhjc24ybFdpRWR3VkltTUMyY3ctOWFQUEhIdkhWTHp3OU1zTmNCYVVmdnhaYUJXbHFRS3FxSnpzSFZQdk44bU0zbEdzS2JOMkZFNVdhTk5kUDBzSWtDY1JmOWFidHdrUkkzc0gtV1pYaWZaazFBfn4%3D&chksm=4f681711781f9e07972fdfcd96a6179e720a6462a86023d840bd4c37b23ebbe6d093b86aa2a1#rd)
+### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
+### [Spring Boot之自定义starter](https://mp.weixin.qq.com/s/FRCv6_-5Q0DyjFr-u9MQQw)
+### [Spring Boot之缓存Cache](https://mp.weixin.qq.com/s/qC3ytGlKK3U_UKFeOtxERQ)
+### [Spring Boot之缓存Cache-Redis](https://mp.weixin.qq.com/s/KHefywzaNc8z22ynTl7xWg)
 
 # 相关项目推荐
 * [rancho-web](https://github.com/rancho00/rancho-web)
