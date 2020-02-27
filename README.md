@@ -1,5 +1,5 @@
 # spring-boot-demo
-包含多个模块，每个模块都是最基础的demo，意在快速入门
+spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的Demo，并且附加Spring Boot学习教程，这样可以加深对Spring Boot学习和认知
 
 # Spring Boot模块介绍
 |模块|说明|
