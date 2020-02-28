@@ -8,6 +8,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-cache|springCache的基本用法|
 |spring-boot-demo-cache-redis|springCache整合redis基本用法|
 |spring-boot-demo-logging|springBoot对日志的框架的使用|
+|spring-boot-demo-error|springBoot异常处理|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
