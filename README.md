@@ -1,4 +1,4 @@
-# spring-boot-demo<font color=gray size=72>color=gray</font>
+# spring-boot-demo
 spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的Demo，并且附加Spring Boot学习教程，这样可以加深对Spring Boot学习和认知
 
 # Spring Boot模块介绍
