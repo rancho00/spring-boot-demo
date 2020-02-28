@@ -1,4 +1,4 @@
-# spring-boot-demo
+# spring-boot-demo<font color=gray size=72>color=gray</font>
 spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的Demo，并且附加Spring Boot学习教程，这样可以加深对Spring Boot学习和认知
 
 # Spring Boot模块介绍
@@ -9,6 +9,11 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-cache-redis|springCache整合redis基本用法|
 |spring-boot-demo-logging|springBoot对日志的框架的使用|
 |spring-boot-demo-error|springBoot异常处理|
+|spring-boot-demo-jest-elasticsearch|jest操作elasticsearch|
+|spring-boot-demo-rest-high-elasticsearch|rest-high操作elasticsearch|
+|spring-boot-demo-rest-low-elasticsearch|rest-low操作elasticsearch|
+|spring-boot-demo-spring-data-elasticsearch|elasticsearchTemplate操作elasticsearch|
+|spring-boot-demo-spring-data-repository-elasticsearch|spring-data-repository操作elasticsearch|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
