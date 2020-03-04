@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.cache.redis;
+package spring.boot.demo.cache.redis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

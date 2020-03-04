@@ -1,6 +1,6 @@
-package com.rancho.demo.spring.boot.demo.cache.redis.mapper;
+package spring.boot.demo.cache.redis.mapper;
 
-import com.rancho.demo.spring.boot.demo.cache.redis.entity.Department;
+import spring.boot.demo.cache.redis.entity.Department;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

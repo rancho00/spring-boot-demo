@@ -1,7 +1,7 @@
-package com.rancho.demo.spring.boot.demo.cache.controller;
+package spring.boot.demo.cache.controller;
 
-import com.rancho.demo.spring.boot.demo.cache.entity.Employee;
-import com.rancho.demo.spring.boot.demo.cache.repository.EmployeeRepository;
+import spring.boot.demo.cache.entity.Employee;
+import spring.boot.demo.cache.repository.EmployeeRepository;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;

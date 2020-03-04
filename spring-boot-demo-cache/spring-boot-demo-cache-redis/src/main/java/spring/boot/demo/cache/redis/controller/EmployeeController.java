@@ -1,7 +1,7 @@
-package com.rancho.demo.spring.boot.demo.cache.redis.controller;
+package spring.boot.demo.cache.redis.controller;
 
-import com.rancho.demo.spring.boot.demo.cache.redis.entity.Employee;
-import com.rancho.demo.spring.boot.demo.cache.redis.mapper.EmployeeMapper;
+import spring.boot.demo.cache.redis.entity.Employee;
+import spring.boot.demo.cache.redis.mapper.EmployeeMapper;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;

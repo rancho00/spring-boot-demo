@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.cache.redis.config;
+package spring.boot.demo.cache.redis.config;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.parser.ParserConfig;

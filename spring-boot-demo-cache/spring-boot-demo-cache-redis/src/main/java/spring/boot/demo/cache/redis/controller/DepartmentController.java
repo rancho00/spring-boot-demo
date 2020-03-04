@@ -1,7 +1,7 @@
-package com.rancho.demo.spring.boot.demo.cache.redis.controller;
+package spring.boot.demo.cache.redis.controller;
 
-import com.rancho.demo.spring.boot.demo.cache.redis.entity.Department;
-import com.rancho.demo.spring.boot.demo.cache.redis.mapper.DepartmentMapper;
+import spring.boot.demo.cache.redis.entity.Department;
+import spring.boot.demo.cache.redis.mapper.DepartmentMapper;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

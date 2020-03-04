@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.cache.redis.entity;
+package spring.boot.demo.cache.redis.entity;
 
 import java.io.Serializable;
 

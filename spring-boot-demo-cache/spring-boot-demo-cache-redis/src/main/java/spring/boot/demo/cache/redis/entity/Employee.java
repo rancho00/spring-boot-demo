@@ -1,15 +1,9 @@
-package com.rancho.demo.spring.boot.demo.cache.entity;
+package spring.boot.demo.cache.redis.entity;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import java.io.Serializable;
 import java.util.Date;
 
-@Entity
-@JsonIgnoreProperties(value = { "hibernateLazyInitializer"})
-public class Employee{
-    @Id
+public class Employee implements Serializable{
     private Integer id;
     private String name;
     private Integer age;
