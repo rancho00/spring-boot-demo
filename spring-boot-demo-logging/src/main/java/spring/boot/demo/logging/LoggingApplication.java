@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.logging;
+package spring.boot.demo.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

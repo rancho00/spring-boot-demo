@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.logging;
+package spring.boot.demo.logging;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
