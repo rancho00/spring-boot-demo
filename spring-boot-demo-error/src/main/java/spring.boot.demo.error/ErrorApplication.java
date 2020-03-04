@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.error;
+package spring.boot.demo.error;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

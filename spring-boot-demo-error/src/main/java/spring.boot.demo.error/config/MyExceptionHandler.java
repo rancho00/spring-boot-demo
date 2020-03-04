@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.error.config;
+package spring.boot.demo.error.config;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
