@@ -4,7 +4,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 # Spring Boot模块介绍
 |模块|说明|
 |:---|:---|
-|spring-boot-demo-starte|自定义starter|
+|spring-boot-demo-starter|自定义starter|
 |spring-boot-demo-cache|springCache的基本用法|
 |spring-boot-demo-cache-redis|springCache整合redis基本用法|
 |spring-boot-demo-logging|springBoot对日志的框架的使用|
@@ -14,6 +14,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-rest-low-elasticsearch|rest-low操作elasticsearch|
 |spring-boot-demo-spring-data-elasticsearch|elasticsearchTemplate操作elasticsearch|
 |spring-boot-demo-spring-data-repository-elasticsearch|spring-data-repository操作elasticsearch|
+|spring-boot-demo-staticresource|springBoot静态资源配置|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
@@ -29,6 +30,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 
 # 联系我
 spring-boot-demo全套学习教程连载中，关注公众号第一时间获取。<br>
+如果想加入QQ群交流，公众号回复"加群"即可<br>
 ![](https://github.com/rancho00/spring-boot-demo/blob/master/document/resource/8cm.jpg)<br>
-如有任何疑问，请加QQ群:58539788<br>
-![](https://github.com/rancho00/spring-boot-demo/blob/master/document/resource/qqgroup.png)<br>
+
+
