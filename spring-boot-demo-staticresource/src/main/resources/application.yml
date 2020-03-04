@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+spring:
+  mvc:
+    static-path-pattern: /file/**
+  resources:
+    static-locations: classpath:/file/,classpath:/file1/
