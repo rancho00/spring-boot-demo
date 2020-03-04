@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.starter;
+package spring.boot.demo.autoconfigure;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

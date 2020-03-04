@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.starter;
+package spring.boot.demo.autoconfigure;
 
 public class HelloService {
 

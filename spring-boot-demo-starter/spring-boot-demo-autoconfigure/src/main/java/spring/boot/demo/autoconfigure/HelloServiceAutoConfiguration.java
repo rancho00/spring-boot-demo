@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.starter;
+package spring.boot.demo.autoconfigure;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication;

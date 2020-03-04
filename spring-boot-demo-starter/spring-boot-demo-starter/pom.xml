@@ -11,7 +11,7 @@
     <parent>
         <groupId>com.rancho.demo.spring-boot-demo</groupId>
         <artifactId>spring-boot-demo</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <dependencies>

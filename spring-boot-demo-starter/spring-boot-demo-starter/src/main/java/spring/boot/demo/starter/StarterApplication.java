@@ -1,4 +1,4 @@
-package com.rancho.demo.spring.boot.demo.starter;
+package spring.boot.demo.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
