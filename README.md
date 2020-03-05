@@ -19,6 +19,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-devtools|springBoot热部署|
 |spring-boot-demo-scheduled|springBoot定时任务|
 |spring-boot-demo-security|springBoot整合security|
+|spring-boot-demo-rabbitmq|springBoot整合rabbitmq|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
