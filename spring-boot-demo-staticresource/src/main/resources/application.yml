@@ -3,6 +3,6 @@ server:
 
 spring:
   mvc:
-    static-path-pattern: /file/**
+    static-path-pattern: /**
   resources:
-    static-locations: classpath:/file/,classpath:/file1/
+    static-locations: classpath:/java1
