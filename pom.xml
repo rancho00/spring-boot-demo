@@ -7,6 +7,9 @@
     <groupId>com.rancho.demo.spring-boot-demo</groupId>
     <artifactId>spring-boot-demo</artifactId>
     <version>1.0.0</version>
+    <modules>
+        <module>spring-boot-demo-mail</module>
+    </modules>
     <packaging>pom</packaging>
 
     <parent>
