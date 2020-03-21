@@ -22,6 +22,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-rabbitmq|springBoot整合rabbitmq|
 |spring-boot-demo-mail|springBoot整合mail|
 |spring-boot-demo-jpa|springBoot整合jpa|
+|spring-boot-demo-jdbc|springBoot整合jdbc|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
