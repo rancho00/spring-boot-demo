@@ -9,6 +9,7 @@
     <version>1.0.0</version>
     <modules>
         <module>spring-boot-demo-mail</module>
+        <module>spring-boot-demo-jpa</module>
     </modules>
     <packaging>pom</packaging>
 
