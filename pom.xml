@@ -11,6 +11,7 @@
         <module>spring-boot-demo-mail</module>
         <module>spring-boot-demo-jpa</module>
         <module>spring-boot-demo-jdbc</module>
+        <module>spring-boot-demo-druid</module>
     </modules>
     <packaging>pom</packaging>
 
