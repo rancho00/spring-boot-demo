@@ -1,3 +1,7 @@
+##application.properties和application.yml文件共存的情况下，
+# 优先使用application.properties，
+# 如果application.properties中不存在再使用application.yml文件
+
 server:
   port: 8082 #端口
   servlet:
