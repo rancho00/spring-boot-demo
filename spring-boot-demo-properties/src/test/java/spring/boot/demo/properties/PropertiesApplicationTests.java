@@ -24,8 +24,8 @@ public class PropertiesApplicationTests {
 
     @Test
     public void contextLoads(){
-        //System.out.println(user);
+        System.out.println(user);
         //System.out.println(user1);
-        System.out.println(user2);
+        //System.out.println(user2);
     }
 }
