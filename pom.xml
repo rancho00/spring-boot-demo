@@ -12,8 +12,10 @@
         <module>spring-boot-demo-jpa</module>
         <module>spring-boot-demo-jdbc</module>
         <module>spring-boot-demo-druid</module>
-        <module>spring-boot-demo-mybatis</module>
+        <module>spring-boot-demo-mybatis-annotation</module>
         <module>spring-boot-demo-mybatis-xml</module>
+        <module>spring-boot-demo-yml</module>
+        <module>spring-boot-demo-properties</module>
     </modules>
     <packaging>pom</packaging>
 
