@@ -1,0 +1,17 @@
+#自定义对象
+user2:
+  name: zhangsan
+  age: 18111
+  email: 2134234@qq.com
+  createTime: 2020/03/25
+  enable: false
+  map: {name: tom,age: 20}
+  list: [lisi,wangmazi]
+  list1:
+    - zhangsan
+    - lisi
+    - wangmazi
+  list2: [{name: kitty,age: 18},{name: tonny,age: 20}]
+  dog:
+    name: kitty
+    age: 19
