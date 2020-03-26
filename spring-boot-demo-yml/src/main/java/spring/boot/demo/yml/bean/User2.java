@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * SpringBoot 不支持指定yml的对象转换
+ * PropertySource 不支持指定yml的对象转换
  */
 @PropertySource(value = {"classpath:user2.yml"})
 @Configuration
