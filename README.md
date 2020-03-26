@@ -26,6 +26,9 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-druid|springBoot整合druid|
 |spring-boot-demo-mybatis-annotation|springBoot整合mybatis-annotation|
 |spring-boot-demo-mybatis-xml|springBoot整合mybatis-xml|
+|spring-boot-demo-properties|springBoot加载properties文件属性|
+|spring-boot-demo-yml|springBoot加载yml文件属性|
+|spring-boot-demo-bean|springBoot申明bean的两个方法|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
