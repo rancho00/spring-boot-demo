@@ -17,6 +17,7 @@
         <module>spring-boot-demo-yml</module>
         <module>spring-boot-demo-properties</module>
         <module>spring-boot-demo-bean</module>
+        <module>spring-boot-demo-profile</module>
     </modules>
     <packaging>pom</packaging>
 
