@@ -31,6 +31,7 @@ spring-boot-demo包含Spring Boot多个模块，每个模块都是最基础的De
 |spring-boot-demo-bean|springBoot申明bean的两个方法|
 |spring-boot-demo-profile|springBoot-profile|
 |spring-boot-demo-configuration|springBoot配置文件|
+|spring-boot-demo-actuator|springBoot-actuator|
 
 # Spring Boot学习教程
 ### [Spring Boot自动配置starter原理](https://mp.weixin.qq.com/s/P-I21C9w3BSOZe982ocepg)
