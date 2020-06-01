@@ -53,6 +53,7 @@ public class RestHighTest {
         SearchSourceBuilder sourceBuilder = new SearchSourceBuilder();
         MatchPhrasePrefixQueryBuilder mppqb = QueryBuilders.matchPhrasePrefixQuery("name", "测试");
         sourceBuilder.query(mppqb);
+        searchRequest.source(sourceBuilder);
         try {
             SearchResponse sr = this.restHighLevelClient.search(searchRequest, RequestOptions.DEFAULT);
             String result = sr.toString();
